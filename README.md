@@ -1,6 +1,8 @@
 Edizione diplomatica digitale del Libro dei cauteri
 ===============
 
+L'edizione si può visualizzare al seguente URL: https://gitbez.github.io/librodeicauteri/
+
 La digitalizzazione del manoscritto si può trovare su [Phaidra](https://phaidra.cab.unipd.it/o:874), la piattaforma di archiviazione permanente dell'Università degli Studi di Padova.
 
 Il manoscritto è conservato presso la [Biblioteca "Vincenzo Pinali" antica](http://bibliotecapinaliantica.cab.unipd.it/) di Padova, che detiene i diritti di riproduzione delle immagini.
